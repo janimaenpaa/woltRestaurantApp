@@ -16,7 +16,7 @@ Use npm to install
 npm install
 ```
 
-## Usage
+### Usage
 
 To run the app in port 3000
 
