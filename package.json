@@ -1,5 +1,5 @@
 {
-  "name": "wolt_app",
+  "name": "WoltRestaurantApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
