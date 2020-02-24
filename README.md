@@ -1,5 +1,7 @@
 # WoltRestaurantApp
 
+![appImage](/appImage.png)
+
 A React frontend that lists different restaurants and their info from a json file. A pre-assignment task for Wolt's Summer 2020 Engineering Internship.
 
 ## Getting Started
